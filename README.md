@@ -7,9 +7,9 @@ Local Business Schema Markup Resources
 * [Order and Reserve Action](https://developers.google.com/search/docs/data-types/local-businesses#business_action_properties)
 * [Reviews](https://developers.google.com/search/docs/data-types/reviews)
 ## Local Schema markup
-* JSON-LD Example for Local Business
+* [JSON-LD Example for Local Business](https://github.com/bhargavraviya/Local-Business-Schema-Markup-Resources/blob/master/Local-Business-JSON-Example.html)
 ## JSON-LD Generators
-* [James D Flynn JSON-LD Generator](https://www.jamesdflynn.com/json-ld-schema-generator/)
+* [James D Flynn JSON-LD Generator](https://github.com/bhargavraviya/Local-Business-Schema-Markup-Resources/blob/master/Local%20Business%20-%20JSON%20Example.html)
 * [Schema App](https://www.schemaapp.com/)
 * [Google Data  Highlighter](https://www.google.com/webmasters/tools/data-highlighter?hl=en&siteUrl=http://www.hunchmanifest.com/)
 ## Testing Tools
