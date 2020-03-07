@@ -1,7 +1,7 @@
 # Local-Business-Schema-Markup-Resources
 Local Business Schema Markup Resources
 ## Local Schema Markup Tools
-* Schema Markup Worksheet – Prepare to do Markup
+* [Schema Markup Worksheet – Prepare to do Markup](http://bit.ly/Local-Business-Schema-Template/)
 ## Google Recommendations
 * [Local Business](https://developers.google.com/search/docs/data-types/local-businesses)
 * [Order and Reserve Action](https://developers.google.com/search/docs/data-types/local-businesses#business_action_properties)
